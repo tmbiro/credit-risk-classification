@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 ## Overview of the Analysis
 * The purpose of this analysis is to evaluate two machine learning models to evaluate loan risk. 
 * A dataset of historical lending activity from a peer-to-peer lending services company was used to identify the creditworthiness of borrowers.
